@@ -1,0 +1,41 @@
+1) The output: [650, 440, 120, 40]
+
+2) The output: 27
+
+3) 30
+
+4) [59.52, 83.7, 93]
+
+5) true
+   false
+
+6) error: can't assign to constant
+
+7) ["batman", "catwoman", "bane"]
+
+8) number
+   function
+   undefined
+   object
+   object
+
+10) "Anonymous"
+    18
+    ""
+    0 
+
+11) ["white", "black", "gray"]
+    false because they don't refer to the same reference
+
+12) 2 
+    undefined
+
+13) 1) {
+   firstName: "Joe",
+   lastName: "Doe"   
+}
+
+14) 50
+
+
+   
